@@ -51,7 +51,7 @@ ServerName localhost
     DirectoryIndex index.php index.phtml index.html index.htm
 
     <Directory "/var/www/html/web">
-        Options +FollowSymLinks +Indexes +Includes +ExecCGI
+        Options +FollowSymLinks -Indexes +Includes +ExecCGI
         AllowOverride All
         Order allow,deny
         Allow from all
