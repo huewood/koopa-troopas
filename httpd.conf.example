@@ -64,9 +64,10 @@ ServerName localhost
     # Disable Trace HTTP request
     TraceEnable Off
 
-    # Disable Apache version signature
+    # Disable Apache and OS version signature
     ServerSignature Off
-    
+    ServerTokens Prod
+
     ErrorLog /var/log/error.log
     CustomLog /var/log/access.log combined
 </VirtualHost>
