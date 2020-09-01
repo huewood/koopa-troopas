@@ -5,7 +5,7 @@
 - [Toggl](https://toggl.com/): Online and local time-tracking software. Great for consulting work.
 - [GoAccess](https://goaccess.io/): Web log analyser and interactive viewer; runs in terminal or browser.
 - [SourceTree](https://www.sourcetreeapp.com/): Git GUI. Must have for any source-code management.
-- [Hyper Terminal](https://hyper.is/): Extremely customizable and extensive CLI interface.
+- [Hyper Terminal](https://hyper.is/): Extremely customizable and extensive CLI.
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?hl=en): Google Chrome extension which manages all your RSS feeds; provides options for desktop alerts. 
 
 #### MacOS
