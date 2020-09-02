@@ -7,6 +7,7 @@
 - [SourceTree](https://www.sourcetreeapp.com/): Git GUI. Must have for any source-code management.
 - [Hyper Terminal](https://hyper.is/): Extremely customizable and extensive CLI.
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?hl=en): Google Chrome extension which manages all your RSS feeds; provides options for desktop alerts. 
+- [Draw.io](https://www.draw.io/): An online and local diagram drawing program supporting community extensions.
 
 #### MacOS
 - [PHP Version Switcher](https://getgrav.org/blog/macos-catalina-apache-mysql-vhost-apc): CLI shortcut to easily switch between different versions of PHP installed via Brew.
